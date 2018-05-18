@@ -1,8 +1,10 @@
+# CAMPAIGN
+战役
+## Border Skirmish
+Border 边境
+Skirmish 小冲突，小规模战斗
 
-case 2
-
-Orange Star
-
+### Orange Star
 What are your orders, ma'am? Should we cease ops and attack?
 你的命令是什么？我们应该停止操作和攻击吗
 That's affirmative, soldier
@@ -36,7 +38,7 @@ Ok, troops!Let's move out!
 troop 军队
 那么，军队们！出发！
 
-Black Hole
+### Black Hole
 Lord Flak， our infantry has reported finding Orange Star properties.
 infantry 步兵
 Flak陛下， 我们的步兵报告发现了橙星的建筑物（物业）
@@ -62,4 +64,35 @@ If you move or get taken out while capturing, you gotta start over again!
 如果你在占领的过程中移动或者离开了建筑物，你必须要重新开始占领
 You got that? Well then, get moving!  Black Hole needs cash!!!
 你听懂了吗？好了，那么出发吧！黑洞需要大量的钱！！
+
+### Orange Star
+Sami, you already know the basics of troop deployment, so...
+Sami, 你已经知道军队部署的基础，所以...
+Please look at the Cursor Intel window below.
+请看下窗口内部下方的光标
+There are some stars below the HQ icon, right?
+在指挥部图标内有一些星星，是不是？
+Those illustrate the level of defensive cover offered by this terrain.
+illustrate 图解
+defensive 防卫
+这些图标表示了这个地形可以提供的防御掩护级别
+The higher the defensive cover, the less damage you take in combat.
+combat 反对， 与...战斗
+防御工事级别越高，你在战斗中获得的伤害减免越大
+So try choosing terrain that allows you to mitigate battle damage.
+mitigate 使缓和，使减轻
+terrain n. [地理] 地形，地势；领域；地带
+所以试着选择可以减轻你战斗损失的地形
+If you need terrain intel, just press the R Button.
+如果你需要地形的详情，只要单机R按钮
+So that means that it's better to engage those tanks from the woods rather than on the plains or roads, right?
+engage 吸引，占用, 交战
+rather 而不是；宁可…也不愿
+plains 平原
+roads 道路
+所以说最好在树林里与这些坦克交战而不是在平原或者公路上， 对吗？
+You've got it!
+Go get' em, Sami!
+你已经明白了，上吧Sami！
+
 
